@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Mobile Flashcards",
+    "description": "An app for creating and using flashcards",
+    "version": "1.0.0",
+    "sdkVersion": "27.0.0",
+    
+
+  }
+}
